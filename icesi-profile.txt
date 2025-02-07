@@ -1,0 +1,3 @@
+Nombre: Dalia
+Apellidos: López Córdoba
+Fecha de nacimiento: 2007/10/02
